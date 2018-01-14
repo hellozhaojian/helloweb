@@ -19,6 +19,6 @@ docker ps
 # 测试容器
 
 mysql -h 192.168.0.104 -P 3306 -u root -p
-
+密码是123456
 # 停止容器
 docker stop firt-mysql
