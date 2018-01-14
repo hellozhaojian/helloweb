@@ -1,0 +1,7 @@
+virtualenv
+django
+virtualenvwrapper
+djangorestframework
+markdown
+django-filter
+mysqlclient
